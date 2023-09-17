@@ -1,4 +1,4 @@
-#Drum Kit EN
+#DrumKitEN
 Vanilla JavaScript" is an approach to development that involves using only the core features of JavaScript, without relying on any JavaScript frameworks or libraries. In other words, it represents using the natural functionality of JavaScript to create web applications or websites, in conjunction with HTML and CSS, without additional dependencies. This is a preferred method to keep web development projects lightweight and independent. By using Vanilla JavaScript, you can create interactive web pages using the fundamental capabilities of JavaScript.
  [https://app.netlify.com/sites/lambent-torrone-de7fe1/deploys/6506ff5a25bea33b1f9fd3c5](GO LİVE)
 #Drum Kit TR 
